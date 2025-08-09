@@ -1,3 +1,7 @@
+# Press F8 to start typing the text that is in the clipboard
+# Press F9 to stop typing
+
+
 import pyautogui
 import time
 import pyperclip
